@@ -18,7 +18,7 @@ def sort_and_print(count, step):
     his_list = list(histogram.items())
     Excel = open("SL_year_distribution.csv", 'w', newline='')  #open a new csv file for sentence length distribution data
     writ = csv.writer(Excel)
-    writ.writerow(['lenth level', 'frequency'])   #设置表头
+    writ.writerow(['lenth level', 'frequency'])   
     
     # his_list.sort(key=lambda x:x[1], reverse=True) 
     for x in his_list:
