@@ -1,0 +1,1489 @@
+Each year, Apple Watch sets a new standard
+
+for what a smartwatch should be.
+
+And this continuous innovation has made it
+the number-one-selling smartwatch
+
+in the world for seven years running.
+
+And we're so excited about what's next.
+
+This is the new Apple Watch Series 8.
+
+It has all of the things you love
+about Apple Watch plus even more.
+
+Series 8 is beautifully designed
+
+and packed with the most advanced sensors
+and technology.
+
+It features a big, brilliant,
+Always-On display with narrow borders
+
+that push the screen right to the edge.
+
+Detailed watch faces
+like the new Lunar, Astronomy,
+
+Metropolitan, and Modular look stunning.
+
+And it's so bright that text
+and complications are easy to read
+
+even when your wrist is down.
+
+And Series 8 is durable.
+
+It's swim proof,
+dust proof, and crack resistant.
+
+To tell you more about Series 8,
+here's Deidre.
+
+Series 8 is designed
+to keep you connected
+
+to the people and things
+that you care about most.
+
+It motivates you to stay active and fit.
+
+With Workouts and Fitness+ there are so
+many ways to exercise using Apple Watch.
+
+Series 8 helps keep you safe
+with fall detection,
+
+emergency SOS, and Medical ID.
+
+It has sleep tracking,
+Cycle Tracking, and Mindfulness
+
+to give you insights into your body
+and help you maintain healthy habits.
+
+With best-in-class health sensors
+that enable ECG,
+
+irregular rhythm notifications,
+and blood oxygen,
+
+it is the ultimate device
+for a healthy life.
+
+And now, Series 8 brings
+even more features
+
+for health, safety, and connectivity,
+
+starting with an innovative
+new temperature sensor
+
+that takes our commitment
+to women's health even further.
+
+And here's Sumbul to tell you about it.
+
+Women's health
+impacts more than just women.
+
+It also impacts their families
+and communities.
+
+And menstrual cycles are key
+to a woman's health,
+
+so much so that many physicians
+regard them as a vital sign.
+
+We added Cycle Tracking three years ago,
+
+and it has helped tens of millions
+gain deeper insights
+
+into their cycles and overall health.
+
+This year, we're introducing a suite
+of advanced Cycle Tracking features,
+
+including valuable information about
+a critical aspect of women's health:
+
+ovulation.
+
+As always, we build our health features
+with two fundamental principles.
+
+First, they're developed
+using scientifically validated insights,
+
+and second, privacy is at the core,
+
+designed to keep your data
+secure and private.
+
+Utilizing the new temperature sensor
+in Apple Watch Series 8,
+
+you can now receive a retrospective
+estimate of when you ovulated.
+
+Series 8 has a unique two-sensor design.
+
+There's one temperature sensor
+on the back crystal, near your skin,
+
+and another just under the display.
+
+This design improves accuracy
+by reducing bias
+
+from the outside environment.
+
+Nighttime wrist temperature
+can be a good indicator
+
+of overall body temperature
+
+because while you sleep,
+your blood vessels dilate,
+
+increasing blood flow to your limbs.
+
+Overnight, Series 8 samples
+your wrist temperature every 5 seconds
+
+and it can detect changes
+as small as 0.1° Celsius.
+
+In the Health app,
+
+you'll be able to see nightly shifts
+from your baseline temperature,
+
+which can be caused
+by things like exercise, jet lag,
+
+alcohol, or illness.
+
+But tracking temperature changes
+is even more useful for those who ovulate,
+
+because cyclical patterns can reveal
+the biphasic shift.
+
+The biphasic shift is an increase in
+body temperature that occurs in response
+
+to changing hormones,
+and it can indicate ovulation.
+
+If you're trying to conceive,
+knowing if and when you ovulated
+
+can inform your family planning
+
+and conversations
+with your health care provider.
+
+Today, the most common way
+to track the biphasic shift
+
+is manually with a thermometer
+and a journal.
+
+Series 8 makes this much easier
+and more convenient
+
+by providing new, automatic
+retrospective ovulation estimates.
+
+Further advancing Cycle Tracking,
+
+all users on iOS 16 and watchOS 9
+can be now notified
+
+of possible cycle deviations
+based on logged cycle data.
+
+You may not realize that common
+cycle deviations, like persistent spotting
+
+or prolonged periods, can be symptoms
+of serious health conditions
+
+like fibroids, thyroid disorders, or PCOS.
+
+That's why it's so important
+to know when they occur.
+
+The temperature sensing capability
+on Series 8, plus heart rate,
+
+and logged cycle data come together
+to give you a detailed view of your cycle,
+
+all of which can be easily shared
+with your healthcare provider
+
+to facilitate more informed conversations.
+
+We believe privacy
+is a fundamental human right
+
+and that your health data
+is yours and yours alone.
+
+Your Cycle Tracking data is encrypted
+on your device
+
+and only accessible with your passcode,
+Touch ID, or Face ID.
+
+When using iOS and watchOS
+with the default two-factor authentication
+
+and a passcode,
+
+Health app data synced to iCloud
+is encrypted end-to-end,
+
+meaning that Apple does not have the key
+to decrypt the data
+
+and therefore cannot read it.
+
+Only with your explicit permission
+can your health data be shared.
+
+And you have granular control
+over the types of data you share
+
+and who you share it with.
+
+Women's health is critically important,
+
+and we're proud to bring these new
+advanced cycle tracking capabilities
+
+to Apple Watch Series 8.
+
+Now back to Deidre.
+
+Safety features on Apple Watch,
+
+like fall detection and emergency SOS,
+have helped save lives.
+
+There's another emergency situation
+you never want to find yourself in,
+
+and that's a car crash.
+
+According to the US Department
+of Transportation,
+
+almost half of the worst crashes
+occur in rural areas,
+
+and the majority involve
+only a single vehicle.
+
+So we built an innovative new feature
+to help in situations like this.
+
+Introducing Crash Detection.
+
+Apple Watch Series 8 can detect
+if you were in a severe car crash.
+
+When a crash is detected,
+it will automatically connect you
+
+with emergency services,
+
+provide your location,
+and notify your emergency contacts.
+
+And to tell you more, here's Ron.
+
+In order to detect
+the unique forces of a car crash,
+
+we developed two new motion sensors
+for Series 8:
+
+an improved 3-axis gyroscope
+
+and a high-g-force accelerometer.
+
+The new accelerometer is capable
+of measuring up to 256 g's,
+
+allowing it to detect
+the extreme impacts of a crash.
+
+And it samples motion four times faster–
+at over 3,000 times a second–
+
+so it can sense
+the precise moment of impact.
+
+With these new technologies,
+
+we built an advanced
+sensor fusion algorithm
+
+to deliver accurate Crash Detection.
+
+We started by spending years
+studying vehicle impacts
+
+at state-of-the-art crash test labs.
+
+We focused on four main types
+of severe crashes:
+
+front impact, side impact,
+
+rear-end collision, and rollovers.
+
+In each crash test, we captured data
+from the new gyroscope
+
+and accelerometer
+as well as from other sensors in Series 8
+
+including the barometer,
+microphone, and GPS.
+
+And then we used machine learning
+to incorporate all of these signals
+
+into the algorithm,
+
+which was trained on over 1 million hours
+
+of real-world driving and crash data.
+
+Series 8 can detect crashes
+in the most popular types of vehicles
+
+like passenger cars,
+SUVs, and pickup trucks.
+
+Crash Detection runs only
+when you're driving
+
+and processes data only
+around the time of a possible crash,
+
+entirely on your device.
+
+That's Crash Detection
+on Apple Watch Series 8.
+
+We truly hope you never need it,
+
+but that you will feel a little bit safer
+every time you get in the car.
+
+Now, back to Deidre.
+
+Even with the new temperature and
+motion sensors working in the background,
+
+Apple Watch Series 8 still has all-day,
+18-hour battery life.
+
+But sometimes,
+like if you're on a long flight
+
+or without a charger for the night,
+
+you need to preserve battery life.
+
+To help with that,
+we're introducing Low Power Mode,
+
+which can give you up to 36 hours
+of battery life on a full charge.
+
+Low Power Mode maintains many
+of the core features of Apple Watch–
+
+like activity tracking
+and fall detection–
+
+while temporarily disabling
+other features,
+
+like Always-On display
+and auto workout detection,
+
+providing maximum battery savings with
+the least impact to the user experience.
+
+Low Power Mode is available on Series 4
+and later running watchOS 9.
+
+Cellular models of Series 8
+will also support international roaming.
+
+Apple Watch will now be able
+to stay connected to your cellular network
+
+while you're traveling abroad.
+
+Simply add your Apple Watch to your iPhone
+roaming plan at little or no cost.
+
+By the end of the year,
+international roaming will be available
+
+on more than 30 carriers worldwide.
+
+It will be supported on all
+cellular models of Apple Watch
+
+from Series 5 onward running watchOS 9.
+
+Apple Watch Series 8 will be available
+in four colors of 100% recycled aluminum:
+
+Midnight, Starlight,
+
+Silver, and Product(RED),
+
+and in three stainless steel finishes:
+Silver, Gold, and Graphite.
+
+There are also great new colors
+across our most popular band styles.
+
+We also have exciting updates
+to both Nike bands,
+
+including fresh colors
+for the Nike Sport Band
+
+and a new Nike Sport Loop
+"Just Do It" woven
+
+right into the textile.
+
+And with watchOS 9,
+
+you can use all Nike watch faces
+
+with any Apple Watch.
+
+There are also two stylish new bands
+for Apple Watch Hermès.
+
+"H Diagonal" uses hundreds
+of micro-perforations
+
+to create a sporty pattern
+of the iconic Hermès H.
+
+And "Gourmette Metal"
+features a polished silver chain
+
+wrapping twice around the wrist
+for a bold look.
+
+There's also a new
+"Hermès Lucky Horse" watch face
+
+that celebrates their equestrian roots.
+
+That's the incredible
+new Apple Watch Series 8
+
+with temperature sensing,
+retrospective ovulation estimates,
+
+Crash Detection,
+and international roaming,
+
+on top of best-in-class health features
+
+like Blood Oxygen,
+ECG, and sleep tracking.
+
+It has the latest design that users love
+with an edge-to-edge display,
+
+great durability, and fast charging,
+
+and all the new features of watchOS 9.
+
+Apple Watch Series 8 will start
+at $399 for GPS
+
+and $499 for cellular.
+
+And with the purchase
+of any new Apple Watch,
+
+you'll also get 3 months of Fitness+ free.
+
+You can order today,
+and it will be available September 16th.
+
+And that's Apple Watch Series 8.
+
+Now back to Jeff.
+
+I am so incredibly excited about Series 8.
+
+Let's take one more look
+at this amazing watch.
+
+So you've taken up running.
+
+Apple Watch has taken up
+a few new things as well.
+
+First, it tracked your distance.
+Now, it's tracking your stride length.
+
+It learns your favorite route,
+then lets you race against yourself.
+
+You're behind.
+
+Yeah, you're behind.
+
+When you're swimming,
+
+it can tell a breaststroke
+
+from a backstroke
+
+from a kickboard.
+
+And when you're done,
+
+it dries itself off.
+
+This isn't a dream.
+Your watch can take an ECG.
+
+But if it was a dream,
+
+that watch would track your REM sleep
+down to the minute.
+
+It checks your heart rate.
+
+It checks for temperature changes
+to estimate when you've ovulated.
+
+It checks out
+when you're buying spaghetti.
+
+It could already detect if you fell.
+
+Now the microphone detects
+impact noise,
+
+the accelerometer senses
+rapid deceleration,
+
+and the barometer measures
+a shift in pressure
+
+consistent with an air bag going off.
+
+So it can check if you need help
+after a car crash.
+
+And hey, it also shows
+your ground contact time.
+
+Amazing.
+
+Have a nice run.
+
+Next, let's talk about Apple Watch SE.
+
+SE has been a huge hit,
+
+and for more than 80% of SE customers
+
+it's their very first Apple Watch.
+
+They love how SE delivers
+the core Apple Watch experience
+
+at a more affordable price.
+
+SE is a fantastic way
+to get started with Apple Watch.
+
+And this year, it gets even better.
+
+The new SE will be available
+in Silver, Midnight, and Starlight–
+
+all in 100% recycled aluminum.
+
+And we've completely redesigned
+the back case.
+
+It's now made of nylon
+composite materials
+
+that match perfectly
+with the three case finishes.
+
+And there's a new production process
+that reduces its carbon footprint
+
+by over 80%.
+
+Now, back to Deidre to tell you more.
+
+Deidre: The second generation SE
+continues to deliver the core benefits
+
+of Apple Watch that users love,
+
+like workout and activity tracking.
+
+It's swim-proof.
+
+It has high and low heart rate
+notifications,
+
+emergency SOS,
+
+and fall detection.
+
+SE also includes the same motion sensors
+as Series 8
+
+to support Crash Detection.
+
+And with AirPods, you can listen
+to your music anywhere.
+
+The SE display is 30% larger
+than that of Series 3.
+
+And SE features the same
+S8 System in Package that's in Series 8,
+
+making it up to 20% faster than before.
+
+SE continues to be the perfect Apple Watch
+for Family Setup.
+
+With Family Setup, you can use your iPhone
+to pair watches for your children
+
+who don't yet have their own iPhones.
+
+Kids can make phone calls and send
+messages to contacts that you specify,
+
+connect to emergency services,
+and share their location.
+
+And with new features coming soon
+like the Home app and home keys in Wallet,
+
+Family Setup allows even more independence
+for kids
+
+and more peace of mind for parents.
+
+SE offers everyone
+the core features of Apple Watch,
+
+and now includes the faster S8 SiP,
+
+Crash Detection,
+new case colors with matching back cases,
+
+and all the new capabilities of watchOS 9,
+
+all at a more affordable price
+starting at $249 for GPS
+
+and $299 for cellular.
+
+You can order it today and it will
+be available on September 16th.
+
+We are so excited about the great
+new features coming to Series 8
+
+and Apple Watch SE, and can't wait
+for people to start using them.
+
+But we're not done yet.
+
+Here's Jeff to tell you even more.
+
+Jeff: We've been working
+on something completely new.
+
+Over the years,
+we've spoken to acclaimed explorers,
+
+accomplished adventurers,
+and elite athletes
+
+who are drawn
+to some of the most extreme environments–
+
+like Ray Zahab, an extreme explorer
+
+who's crossed some
+of the harshest environments on foot,
+
+including the length of the Sahara Desert,
+
+and expeditions across Antarctica
+and the Arctic,
+
+and Nadia Aly–
+an accomplished diver,
+
+expedition leader
+and renowned underwater photographer,
+
+and Scott Jurek–one of the most dominant
+ultra-marathon runners in history
+
+and a seven-time winner
+of the Western States 100-miler.
+
+Inspired by their stories,
+
+we set out to create an Apple Watch
+
+designed specifically for exploration,
+adventure, and endurance,
+
+and it's extraordinary.
+
+This has been years in the making,
+
+and we can't wait to show it to you.
+
+
+Wanted for hazardous journey...
+
+long months of complete darkness...
+
+Bitter cold,
+
+constant danger,
+
+safe return... doubtful.
+
+Honor and recognition
+in case of success.
+
+This is Apple Watch Ultra,
+
+a completely new design reimagined
+with extraordinary new capabilities
+
+that expand the ways
+you can use Apple Watch.
+
+Every detail has been engineered
+to create the most rugged
+
+and capable Apple Watch ever.
+
+It starts with the case,
+
+made from aerospace grade titanium
+
+that strikes the perfect balance
+of weight,
+
+durability, and corrosion resistance.
+
+The titanium case extends up to surround
+the flat sapphire front crystal,
+
+protecting it from edge impacts
+that can occur during extreme activities.
+
+And at the center of the 49mm case
+is our biggest, brightest display
+
+ever in Apple Watch,
+
+making it easier to read
+in the harshest sunlight.
+
+We also added a new button–
+the Action button–
+
+in high-contrast "international orange".
+
+It's customizable and gives users quick
+physical control for a range of functions.
+
+The Digital Crown has a larger diameter
+
+and coarser grooves,
+
+and the side button stands proud
+of the case,
+
+both designed to be used
+while wearing gloves.
+
+And the audio system excels
+when you're out in the elements.
+
+We added a second speaker
+for increased volume.
+
+Three strategically placed microphones
+and advanced software
+
+help ensure voice clarity on calls,
+even in windy conditions.
+
+And for maximum connectivity
+and communication,
+
+cellular is built
+into every Apple Watch Ultra.
+
+Ultra has the biggest battery
+of any Apple Watch yet.
+
+It gets up to 36 hours
+of battery life on a single charge.
+
+And Apple Watch Ultra can even get
+up to 60 hours of battery life
+
+for a multi-day adventure
+
+using a new battery optimization setting
+
+coming later this fall.
+
+And to complement
+the rugged utility of the hardware,
+
+we created our most technical face yet:
+
+Wayfinder.
+
+With a host of critical information,
+it includes a compass in the dial
+
+and can be customized for the mountain,
+ocean, or trail.
+
+And to optimize for evening conditions,
+there's Night mode.
+
+Just rotate the Crown,
+and the UI turns red
+
+for better visibility in the dark.
+
+Apple Watch Ultra
+is designed to push boundaries.
+
+It's a versatile tool for anyone
+who appreciates outdoor adventure,
+
+water sports, and endurance training.
+
+And for each of these,
+we created a special band
+
+as meticulously crafted
+as the watch itself.
+
+With explorers in mind,
+we developed the Alpine Loop.
+
+The titanium G-hook securely fastens
+through the reinforced top loops.
+
+The band is woven using
+an innovative process
+
+that integrates the two layers
+without any stitching.
+
+The Ocean Band is molded
+in a high-performance elastomer
+
+with a tubular geometry,
+allowing it to stretch for a perfect fit,
+
+even over a wetsuit.
+
+The titanium buckle
+and adjustable loops
+
+secure the band
+during high-speed water sports.
+
+For endurance athletes,
+we created the Trail Loop.
+
+The lightweight textile
+has increased elasticity
+
+for a comfortable, snug fit.
+
+It's our thinnest band yet,
+
+with a convenient tab
+for making quick adjustments.
+
+Ultra is a totally new expression
+of Apple Watch.
+
+Whether you're an accomplished athlete
+or explorer
+
+or aspire to try exciting new activities,
+
+we think you're gonna love it.
+
+Here's Julz to tell you more.
+
+We set out to make Apple Watch Ultra
+
+the best sport watch out there,
+
+with features for every athlete.
+
+GPS performance is critical
+for serious runners and athletes
+
+who want the most accurate metrics.
+
+A typical GPS solution works well
+most of the time,
+
+but some environments are really tricky–
+
+like when tall buildings
+or dense trees block satellites,
+
+making accurate GPS readings nearly
+impossible when training and competing.
+
+The famed Chicago Marathon
+is a great example.
+
+It's a notoriously challenging environment
+for GPS
+
+because a big portion is run
+between skyscrapers.
+
+So we designed a new, precision
+dual-frequency GPS solution
+
+that, in addition to L1,
+
+also includes the latest frequency: L5,
+
+plus new, custom positioning algorithms.
+
+In dense urban conditions like this,
+
+Apple Watch Ultra provides
+the most accurate GPS
+
+of any sport watch in the market.
+
+We also brought some great workout updates
+to watchOS 9
+
+inspired by high-performance athletes,
+
+with new metrics,
+views, and experiences
+
+like vertical oscillation,
+heart rate zones, and custom workouts.
+
+And now, with the addition
+of the Action button on Apple Watch Ultra,
+
+you can make the workout experience
+more powerful and more precise.
+
+Press the Action button
+
+for the most accurate start
+to your workout.
+
+For triathletes and duathletes, the Action
+button lets you instantly transition
+
+from one leg of your race to the next.
+
+And later this year,
+we're enabling a new feature
+
+which automatically detects
+when you arrive at a running track,
+
+ensuring the most accurate pace
+and distance.
+
+The Action button lets you
+conveniently mark a segment
+
+with a single press
+for the ultimate track-running experience.
+
+For endurance athletes, the bigger
+battery makes a big difference.
+
+Of course, you can easily complete
+a marathon with battery life to spare.
+
+Using the new low-power workout setting,
+
+most athletes can do a 2.4-mile swim,
+plus a 112-mile bike ride,
+
+and then run a marathon
+
+to complete a long-distance triathlon
+with full precision GPS and heart rate.
+
+But Ultra is so much more.
+
+It's designed to help you explore
+the most extreme and remote locations,
+
+from freezing-cold mountains
+at -20° Celsius
+
+to the blazing desert heat
+at 55° Celsius,
+
+or 130° Fahrenheit.
+
+When navigating in the backcountry,
+a compass is an essential tool.
+
+So we completely redesigned
+the Compass app
+
+with new precision views
+and added capabilities.
+
+The orienteering view includes
+Compass Waypoints to mark a position–
+
+like the location of the trailhead
+or your tent–
+
+and they can be quickly added
+using the Action button.
+
+And if you get lost or disoriented,
+
+Backtrack uses GPS data
+to create a path of where you've been,
+
+so you can easily retrace your steps.
+
+And it turns on automatically in the
+background when you go off the grid,
+
+just in case.
+
+Getting help when you need it is critical,
+
+especially in the backcountry.
+
+That's why Apple Watch Ultra has
+a built-in 86 decibel siren
+
+that you can activate
+using the Action button.
+
+It has a unique sound pattern
+that alerts others to your location
+
+up to 600 feet, or 180 meters, away.
+
+Finally, Apple Watch Ultra
+has been designed for water sports.
+
+It can withstand the intense
+dynamic forces of activities
+
+like kitesurfing and wakeboarding,
+
+and it can go deep below the waves
+
+because we engineered it
+to twice the water resistance, WR100.
+
+Using its new built-in depth gauge,
+Ultra automatically launches
+
+a new Depth app when submerged
+
+to show current depth, underwater time,
+and water temperature.
+
+We also want Ultra to be a great tool
+for recreational scuba divers.
+
+So it's been certified to EN 13319,
+
+the internationally recognized standard
+for dive computers and gauges.
+
+And we're partnering
+with Huish Outdoors
+
+to create an exclusive app
+that turns Apple Watch Ultra
+
+into a capable dive computer
+for recreational scuba diving
+
+to the depth of 40 meters, or 130 feet.
+
+To tell you more
+about this incredible app,
+
+here's Mike Huish, CEO of Huish Outdoors.
+
+Our company is world-renowned
+
+for powering every aspect
+of the underwater experience.
+
+And Oceanic has been a leading innovator
+in scuba diving for over 50 years,
+
+introducing
+some of the very first dive computers.
+
+We're thrilled to announce our new
+Oceanic+ app for Apple Watch Ultra.
+
+This is so exciting for anyone
+interested in scuba diving
+
+because now the same watch you wear
+every day is also your dive computer.
+
+We've designed Oceanic+
+with all the key features
+
+for recreational scuba divers
+and free divers.
+
+And it works seamlessly
+with our iPhone app to plan your dives.
+
+Our dive planner
+calculates depth and time,
+
+and integrates dive conditions like tides,
+
+water temperature, and even up-to-date
+information from the community,
+
+like visibility and currents.
+
+The best way to experience this
+is on a real dive,
+
+so let's get in the water.
+
+Your dive metrics
+are all simple and easy to read
+
+on the large, bright display.
+
+Our app runs
+the Bühlmann decompression algorithm,
+
+which constantly calculates
+and monitors dive parameters.
+
+So from the moment you start a dive,
+
+all critical information
+is just a glance away.
+
+And unlike most dive computers,
+which require you to perform
+
+a complex sequence of button presses
+to find the information you need,
+
+our app uses simple gestures.
+
+Rotate the Digital Crown
+to access additional screens
+
+or press the Action button
+to set a compass heading.
+
+Oceanic+ provides all of
+the safety warnings that you would expect
+
+from the most advanced
+dive computers today,
+
+like decompression limits,
+excessive ascent rate,
+
+and at the end of your dive,
+safety stop guidance
+
+all smartly color-coded
+to help make complex information
+
+easy to understand.
+
+Right after the dive, your data–including
+your GPS entry and exit location–
+
+automatically syncs to your iPhone
+and the cloud,
+
+where you can see
+a summary of your dive profile.
+
+And in your logbook,
+you can sort and search past dives,
+
+and instantly share your adventures
+with family and friends,
+
+as well as the community.
+
+We can't wait for you to try it out
+later this fall.
+
+The Oceanic+ app and Apple Watch Ultra
+together create a powerful
+
+and easy-to-use dive computer
+that will inspire more people
+
+to discover and explore
+the underwater world.
+
+Now back to Jeff.
+
+So that's Apple Watch Ultra,
+
+the most rugged
+and capable Apple Watch ever.
+
+With a 49mm titanium case,
+
+precision dual-frequency GPS,
+
+a customizable Action button,
+long battery life,
+
+a built-in depth gauge,
+
+the biggest and brightest display–
+up to 2000 nits–
+
+and all the other great features
+of Series 8,
+
+it's designed
+to help you run your longest race,
+
+explore the back country,
+and dive the world's oceans.
+
+And Apple Watch Ultra,
+as well as our entire watch lineup,
+
+was designed with the environment
+in mind–
+
+from the use of recycled materials
+
+to suppliers' use of clean energy
+during manufacturing.
+
+We're already carbon neutral
+for our corporate operations,
+
+and these efforts move us even closer
+toward our goal
+
+to become carbon neutral
+for our entire product footprint by 2030.
+
+All models of Apple Watch Ultra
+will be $799.
+
+You can order it today,
+
+and it will be available starting
+on September 23rd.
+
+Here's another look
+at the all-new Apple Watch Ultra.
+
+Every explorer has a packing list–
+
+the essential tools
+
+for heading out into the unknown.
+
+We put as many of those tools
+on your wrist as we could.
+
+The result...
+
+was the new Apple Watch Ultra.
+
+Ultra's design pushes the boundaries
+
+so you can do the same.
+
+The rugged, yet lightweight, titanium case
+extends
+
+to protect the flat sapphire crystal
+
+and can endure temperatures
+that fall below zero
+
+or climb 130° above it.
+
+Into the unknown,
+you'll want the battery to last for days.
+
+That's why Ultra was built
+with a larger battery
+
+for multi-day use on a single charge.
+
+You'll also need a map.
+
+Or better yet, a dual-frequency GPS
+
+with pinpoint accuracy.
+
+The Compass has been redesigned
+
+and now has waypoint marking
+and Backtrack,
+
+dropping points along your route
+to keep you found
+
+when the conditions leave you lost.
+
+A turn of the Crown engages Night mode,
+
+which removes retina-altering blue light
+
+to ease the strain on your eyes
+in the dark.
+
+Beside the bigger, brighter screen
+
+is its most versatile tool–
+
+a customizable Action button.
+
+One push lets you track race segments,
+
+find a way out,
+
+or start up a dive computer,
+
+which is now strapped to your arm,
+
+tracking everything from depth
+to water temperature.
+
+The micro-polished sapphire surface
+and sealed case
+
+result in an Apple Watch twice
+as water resistant
+
+as any Apple Watch to come before it.
+
+And the audio system's three microphones
+triangulate
+
+so you can be heard
+
+even in extreme weather.
+
+Of course, none of this matters
+if it falls off your wrist.
+
+Which is why we've designed
+three new bands–
+
+Alpine, Trail, and Ocean–
+
+for specific environments
+
+and maximum comfort,
+
+to endure long runs,
+
+hard falls, and ripping currents.
+
+Apple Watch Ultra is an essential tool
+
+for essentially anything.
+
+So what will your anything be?
+
+And that's the Apple Watch lineup
+for the fall,
+
+with Apple Watch SE providing core
+features at an even more affordable price,
+
+Apple Watch Series 8 with Crash Detection,
+
+and a temperature sensor
+that enables new women's health features
+
+in a design users love.
+
+And finally, Apple Watch Ultra,
+
+our most rugged, capable Apple Watch yet.
+
+This is our best lineup ever,
+
+and we can't wait
+for users to experience them.
+
+And now, back to Tim.
+

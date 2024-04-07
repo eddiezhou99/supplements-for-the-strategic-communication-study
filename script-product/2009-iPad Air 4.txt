@@ -1,0 +1,544 @@
+So that brings us to iPad Air.
+
+iPad Air was designed to deliver
+pro features at a very affordable price.
+
+And today we are thrilled to introduce
+
+an all-new,
+completely redesigned iPad Air.
+
+And here it is.
+
+This is the new iPad Air.
+
+And to tell you all about it,
+I'd like to hand it over to Laura.
+
+The new iPad Air starts
+with a gorgeous design.
+
+The all-new thin and light enclosure
+and narrow border design
+
+features a beautiful all-screen display.
+
+Each element of iPad Air
+is meticulously crafted,
+
+from the precisely machined top button
+
+to the sculpted detail around the camera.
+
+And the new iPad Air design
+comes in five gorgeous colors,
+
+including a new rose gold,
+green and sky blue finish.
+
+Our customers are going to love
+these colors.
+
+And this new design features
+a stunning Liquid Retina display.
+
+In the same footprint as the previous Air,
+
+the new iPad Air features a larger,
+10.9-inch Liquid Retina display
+
+with a resolution of 2360 by 1640.
+
+That's over 3.8 million pixels
+
+for extra-crisp text and photos.
+
+And, it has advanced display technologies
+like full lamination,
+
+wide color, True Tone
+
+and an anti-reflective coating
+
+that, combined,
+deliver an amazing visual experience.
+
+To give our customers
+this beautiful all-screen design
+
+meant finding a new home
+for one of the most popular features:
+
+Touch ID.
+
+So we designed a next-generation Touch ID
+
+and integrated it
+right into the top button.
+
+This provides convenient
+and secure authentication
+
+while allowing the display
+to extend on all sides.
+
+This is the smallest authentication sensor
+we have ever designed,
+
+and it delivers the same performance,
+ease of use and security
+
+you know and trust from Touch ID.
+
+The technology under the button
+is really amazing.
+
+It uses a sapphire crystal lens
+and next-generation custom sensor
+
+that more efficiently captures
+the details of a fingerprint.
+
+And it uses a faster Secure Enclave
+
+to more quickly authenticate
+the fingerprint data.
+
+And using it is as simple as ever:
+
+just touch the top button
+to unlock your iPad,
+
+log in to apps or use Apple Pay.
+
+It's fast, easy and secure.
+
+Another reason customers love iPad Air
+is its performance.
+
+So we're debuting
+an incredibly powerful new chip
+
+which is going to give the new Air
+a huge leap in performance.
+
+To tell you more, here's Tim Millet.
+
+I'm super excited to tell you
+about the powerful new chip
+
+we built into the new iPad Air:
+
+our latest A-series processor, A14 Bionic.
+
+Our goal is to build chips
+with industry-leading performance,
+
+powerful custom technologies
+and extremely efficient use of energy
+
+to make every one of our products
+best in class.
+
+One way we do this
+is by aggressively adopting
+
+cutting-edge silicon process technology
+year after year.
+
+And now with A14,
+we'll be the first in the industry
+
+to use the breakthrough
+five-nanometer process technology.
+
+The incredibly small scale of this process
+challenges the laws of physics.
+
+In fact, we're talking about
+a scale so small,
+
+the dimensions of these five-nanometer
+transistors are measured in atoms.
+
+This means we were able to pack
+11.8 billion transistors into A14.
+
+That's an increase of nearly 40%
+over our seven-nanometer chip.
+
+We use these additional transistors
+to deliver new features,
+
+increased power efficiency
+and increased performance
+
+in nearly every aspect of the chip.
+
+A14 Bionic includes a big update
+to our CPU.
+
+Our architecture runs
+more instructions in parallel,
+
+resulting in great performance
+at lower power.
+
+And it integrates large,
+high-performance caches
+
+sized to meet the needs
+of the most demanding applications.
+
+For A14's powerful new six-core design,
+
+this results in an enormous 40% increase
+in CPU performance
+
+compared to the previous iPad Air.
+
+A14 also features
+our newest GPU architecture,
+
+scaled to deliver
+the maximum sustainable performance
+
+at the lowest possible power--
+
+an approach that also allows us to deliver
+industry-leading peak performance
+
+when it's needed most.
+
+For A14, our new four-core design delivers
+
+a 30% increase
+in graphics performance as well.
+
+And when you compare
+the new iPad Air with A14
+
+to the best-selling laptop
+in its price range,
+
+a device nearly three times thicker
+and four times heavier,
+
+the new iPad Air has up to two times
+faster graphics performance
+
+in its incredibly thin and light design.
+
+So for customers using iPad Air
+for performance-intensive apps
+
+like editing 4K videos,
+creating works of art
+
+or playing immersive games,
+
+the incredible performance of A14
+can handle them all with ease.
+
+In addition to the blazing-fast CPU
+and GPU,
+
+A14 is loaded with custom technologies
+that drive the unique iPad experience,
+
+like a much faster Neural Engine,
+
+which will make iPad Air more powerful
+for machine learning.
+
+By doubling the number of cores
+to build a 16-core architecture,
+
+the Neural Engine in A14 is capable
+of executing
+
+an amazing 11 trillion operations
+per second.
+
+This increases ML performance by up to
+two times over the previous generation.
+
+In addition, our CPU is further optimized
+
+with second-generation
+machine learning accelerators,
+
+which come to iPad for the first time
+
+and accelerate the matrix multiplication
+frequently used in ML computations
+
+at up to ten times faster
+than the previous Air.
+
+Now, the combination
+of the new Neural Engine,
+
+the CPU ML accelerators
+and our high-performance GPU
+
+deliver breakthrough
+machine learning capabilities
+
+to elevate apps built on Core ML
+to an entirely new level of performance.
+
+So that's the new A14 Bionic.
+
+It delivers big performance updates
+for the CPU and GPU,
+
+makes iPad Air much more powerful
+for machine learning
+
+and also features the latest ISP
+for higher-quality videos and photos
+
+and even faster Secure Enclave
+for Touch ID.
+
+This is by far the most advanced chip
+we've ever made,
+
+and we're thrilled
+to bring it to the new iPad Air.
+
+Now back to you, Laura.
+
+Wow, the A14 is a huge leap forward
+in performance.
+
+And we've worked with
+a number of developers
+
+to see what they can do
+with the new iPad Air.
+
+So let's take a look.
+
+I'm Karim Morsy.
+I'm a developer of djay Pro AI.
+
+djay Pro AI is an app that brings all
+the tools of a professional DJ to iPad.
+
+The A14 Bionic allows us to build
+intelligent features into the app.
+
+You touch the record,
+and then you start scratching.
+
+You can actually scratch in the air.
+
+It just blows our mind
+that this is possible now.
+
+Hi, I'm Alexey from Pixonic,
+developer of the game War Robots.
+
+The A14 Bionic chip allows us
+to deliver console-level graphics
+
+on a device you can hold in your hands.
+
+It's quite amazing to have a real-time,
+six-versus-six multiplayer game
+
+running on iPad at 60 frames per second.
+
+For example,
+the textures are much more detailed,
+
+the shadows are dynamic,
+
+and reflections are more realistic.
+
+It looks amazing.
+
+I'm Andrius, and we're from Pixelmator.
+
+Pixelmator Photo is a photo editing app
+for enhancing photos.
+
+So I think everyone's seen the movies
+where somebody's pointing at a screen,
+
+and goes, "Okay, zoom in on that.
+Now, enhance."
+
+And now I've brought that to iPad.
+
+The Apple Neural Engine
+allows us to build functionality
+
+we never thought possible.
+
+The ML Super Resolution feature
+finds individual details:
+
+edges, colors, gradients, textures,
+
+and it combines it back in an image.
+
+Now, we can build intelligent features
+into the app.
+
+The possibilities
+are just endless with this.
+
+With the A14 chip,
+
+the new Air is going to bring
+incredible performance
+
+to customers looking to step up
+to a more powerful iPad.
+
+And there's more.
+
+Another great feature
+we're bringing to iPad Air is USB-C.
+
+USB-C increases data transfer speeds
+up to 5 gigabits per second.
+
+That's a tenfold jump in performance
+over the previous Air.
+
+It provides a fast connection
+to a host of external devices,
+
+like cameras, drives
+and external monitors up to 4K.
+
+The new Air also includes
+great cameras front and back.
+
+The front 7-megapixel FaceTime HD camera
+supports Smart HDR,
+
+improved 1080p video capture
+and better low-light performance
+
+for really high-quality video calls.
+
+And on the back is the same
+12-megapixel camera used in the iPad Pro,
+
+with focus pixels and a larger aperture
+to capture incredibly sharp photos
+
+and stunning 4K video,
+
+enhanced with
+improved video stabilization,
+
+so the photos and videos
+our customers take with the new Air
+
+are gonna look better than ever.
+
+And to elevate the audio experience,
+we've redesigned the speaker system,
+
+providing stereo audio in landscape mode.
+
+Great for kicking back and enjoying
+your favorite movies and TV shows.
+
+The new Air also works
+with our amazing accessories,
+
+including Apple Pencil,
+
+which attaches magnetically to the side
+for pairing, charging and storage,
+
+and the beautiful Magic Keyboard,
+
+with floating design
+and built-in trackpad.
+
+So this is the new iPad Air,
+
+featuring a 10.9-inch
+Liquid Retina display,
+
+next-generation Touch ID,
+
+a huge boost in performance
+with A14 Bionic,
+
+USB-C, advanced cameras,
+
+Wi-Fi 6 and LTE that's 60% faster.
+
+This is by far
+the most powerful iPad Air ever.
+
+Let's check it out.
+
+[electronic music playing]
+
+So that's the new iPad Air,
+
+and we can't wait
+to get it into our customers' hands.
+
+It'll start at $599.
+
+It will be available beginning next month.
+
+And finally, we're very proud that
+
+the new Air and eighth-generation iPad
+have been carefully designed
+
+to have minimal impact on the environment
+
+and support
+our overall net zero carbon goal.
+
+Both iPads use
+100% recycled aluminum enclosures,
+
+and all of the wood fiber in the packaging
+of both iPad models is recycled
+
+or comes from responsibly managed forests.
+
+Both iPads use 100%-recycled tin solder
+in their main logic boards
+
+and are free of harmful substances.
+
+So while our work here is never finished,
+
+we're proud of the progress we've made
+with these new products.
+
+So today, we have
+our most advanced iPad lineup ever.
+
+It's really a huge year for iPad:
+
+an incredible new iPad Air delivering
+more pro features to even more customers,
+
+an iPad 8th generation
+with massive jump in performance,
+
+together with the latest iPad Pro
+
+and the mighty iPad mini,
+
+combined with the advanced features
+in iPadOS 14
+
+make these by far the most exciting
+iPads we've ever shipped.
